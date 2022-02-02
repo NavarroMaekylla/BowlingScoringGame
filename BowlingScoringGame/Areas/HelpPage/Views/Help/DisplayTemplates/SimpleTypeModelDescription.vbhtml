@@ -1,0 +1,3 @@
+@Imports BowlingScoringGame.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
