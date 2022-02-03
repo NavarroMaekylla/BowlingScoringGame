@@ -177,30 +177,30 @@
         &nbsp;<center>
             <table border="1" cellspacing="1" width="100%" id="AutoNumber1" height="45">
                 <tr>
-                    <td width="7%" height="19" bgcolor="#003399"><font color="#FFFFFF"><b>Frame</b></font></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>1</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>2</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>3</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>4</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>5</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>6</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>7</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>8</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>9</b></td>
-                    <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>10</b></td>
+                    <td width="7%" height="19" bgcolor="#green"><font color="#FFFFFF"><center><b>Frame</b><center></font></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>1</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>2</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>3</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>4</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>5</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>6</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>7</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>8</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>9</b></td>
+                    <td width="7%" height="19" bgcolor="#green" align="center"><b>10</b></td>
                 </tr>
                 <tr>
-                    <td width="7%" height="16" bgcolor="#003399"><font color="#FFFFFF"><b>Score</b></font></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot1a"> <input type=text maxlength=1 size=1 name="shot1b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot2a"> <input type=text maxlength=1 size=1 name="shot2b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot3a"> <input type=text maxlength=1 size=1 name="shot3b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot4a"> <input type=text maxlength=1 size=1 name="shot4b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot5a"> <input type=text maxlength=1 size=1 name="shot5b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot6a"> <input type=text maxlength=1 size=1 name="shot6b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot7a"> <input type=text maxlength=1 size=1 name="shot7b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot8a"> <input type=text maxlength=1 size=1 name="shot8b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot9a"> <input type=text maxlength=1 size=1 name="shot9b"></td>
-                    <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot10a"> <input type=text maxlength=1 size=1 name="shot10b"> <input type=text maxlength=1 size=1 name="shot10c"></td>
+                    <td width="7%" height="16" bgcolor="yellow"><font color="#FFFFFF"><b>Score</b></font></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot1a"> <input type=text maxlength=1 size=1 name="shot1b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot2a"> <input type=text maxlength=1 size=1 name="shot2b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot3a"> <input type=text maxlength=1 size=1 name="shot3b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot4a"> <input type=text maxlength=1 size=1 name="shot4b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot5a"> <input type=text maxlength=1 size=1 name="shot5b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot6a"> <input type=text maxlength=1 size=1 name="shot6b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot7a"> <input type=text maxlength=1 size=1 name="shot7b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot8a"> <input type=text maxlength=1 size=1 name="shot8b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot9a"> <input type=text maxlength=1 size=1 name="shot9b"></td>
+                    <td width="7%" height="16" bgcolor="yellow" align="center"><input type=text maxlength=1 size=1 name="shot10a"> <input type=text maxlength=1 size=1 name="shot10b"> <input type=text maxlength=1 size=1 name="shot10c"></td>
                 </tr>
             </table>
             <p>
