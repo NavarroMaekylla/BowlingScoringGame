@@ -219,6 +219,8 @@
     <p>Enter x or X for a strike.</p>
     <p>Enter / for a spare.</p>
     <p>Enter 0-9 for each shot if it is not a strike or spare.</p>  
+    <p>Press the button Calculate Score to calculate your inputted value.</p>
+     <p>Press the button Reset to clear the form table.</p>
     <br />
     <br />
     <h2 style="text-align:center"><i>Have Fun and Enjoy!</i></h2>
