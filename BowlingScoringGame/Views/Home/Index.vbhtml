@@ -190,7 +190,7 @@
                     <td width="7%" height="19" bgcolor="#99CCFF" align="center"><b>10</b></td>
                 </tr>
                 <tr>
-                    <td width="7%" height="16" bgcolor="#003399"><font color="#FFFFFF"><b>Score</b></font></td>
+                    <td width="7%" height="16" bgcolor="#003399"><font color="#FFFFFF"><center><b>Score</b></center></font></td>
                     <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot1a"> <input type=text maxlength=1 size=1 name="shot1b"></td>
                     <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot2a"> <input type=text maxlength=1 size=1 name="shot2b"></td>
                     <td width="7%" height="16" bgcolor="#99CCFF" align="center"><input type=text maxlength=1 size=1 name="shot3a"> <input type=text maxlength=1 size=1 name="shot3b"></td>
