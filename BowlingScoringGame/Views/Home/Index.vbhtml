@@ -171,36 +171,36 @@
         </script>
 </head>
 
-<body bgcolor="#82ffff">
+<body bgcolor="#0c819c">
     <center><h1>Bowling Scoring Game</h1></center> <br />
     <form name="score">
         &nbsp;<center>
             <table border="1" cellspacing="1" width="100%" id="AutoNumber1" height="45">
                 <tr>
-                    <td width="7%" height="19" bgcolor="#173F5F"><font color="#FFFFFF"><center><b>Frame</b><center></font></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>1</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>2</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>3</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>4</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>5</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>6</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>7</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>8</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>9</b></td>
-                    <td width="7%" height="19" bgcolor="#173F5F" align="center"><b>10</b></td>
+                    <td width="7%" height="19" bgcolor="#2E3047"><font color="#FFFFFF"><center><b>Frame</b><center></font></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>1</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>2</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>3</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>4</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>5</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>6</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>7</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>8</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>9</b></td>
+                    <td width="7%" height="19" bgcolor="#3C3F58" align="center"><b>10</b></td>
                 </tr>
                 <tr>
-                    <td width="7%" height="16" bgcolor="#20639B"><font color="#FFFFFF"><center><b>Score</b></center></font></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot1a"> <input type=text maxlength=1 size=1 name="shot1b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot2a"> <input type=text maxlength=1 size=1 name="shot2b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot3a"> <input type=text maxlength=1 size=1 name="shot3b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot4a"> <input type=text maxlength=1 size=1 name="shot4b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot5a"> <input type=text maxlength=1 size=1 name="shot5b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot6a"> <input type=text maxlength=1 size=1 name="shot6b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot7a"> <input type=text maxlength=1 size=1 name="shot7b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot8a"> <input type=text maxlength=1 size=1 name="shot8b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot9a"> <input type=text maxlength=1 size=1 name="shot9b"></td>
-                    <td width="7%" height="16" bgcolor="#20639B" align="center"><input type=text maxlength=1 size=1 name="shot10a"> <input type=text maxlength=1 size=1 name="shot10b"> <input type=text maxlength=1 size=1 name="shot10c"></td>
+                    <td width="7%" height="16" bgcolor="#43455C"><font color="#FFFFFF"><center><b>Score</b></center></font></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot1a"> <input type=text maxlength=1 size=1 name="shot1b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot2a"> <input type=text maxlength=1 size=1 name="shot2b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot3a"> <input type=text maxlength=1 size=1 name="shot3b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot4a"> <input type=text maxlength=1 size=1 name="shot4b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot5a"> <input type=text maxlength=1 size=1 name="shot5b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot6a"> <input type=text maxlength=1 size=1 name="shot6b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot7a"> <input type=text maxlength=1 size=1 name="shot7b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot8a"> <input type=text maxlength=1 size=1 name="shot8b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot9a"> <input type=text maxlength=1 size=1 name="shot9b"></td>
+                    <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot10a"> <input type=text maxlength=1 size=1 name="shot10b"> <input type=text maxlength=1 size=1 name="shot10c"></td>
                 </tr>
             </table>
             <p>
@@ -211,10 +211,18 @@
     </form>
     <h3>
         <i>
-            Score: <b>0-9</b> <font color="#C0C0C0">or</font> <b>x </b>
-            <font color="#C0C0C0">or</font><b> /</b>
+            <b>Instruction in Playing the Game</b> <font color="#C0C0C0"></font> <br />
         </i>
     </h3>
+    
+    <p>Enter x or X for a strike.</p>
+    <p>Enter / for a spare.</p>
+    <p>Enter 0-9 for each shot if it is not a strike or spare.</p>
+    <p>The cursor will auto-advance to the next shot (or next frame in case of a strike).</p>
+    <p>Use the bottom row of textboxes to test your scoring knowledge against the actual score.</p>
+    <br />
+    <br />
+    <h2 style="text-align:center"><i>Have Fun and Enjoy!</i></h2>
     <hr>
     </div>
 
