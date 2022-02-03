@@ -203,6 +203,7 @@
                     <td width="7%" height="16" bgcolor="#707793" align="center"><input type=text maxlength=1 size=1 name="shot10a"> <input type=text maxlength=1 size=1 name="shot10b"> <input type=text maxlength=1 size=1 name="shot10c"></td>
                 </tr>
             </table>
+        <br />
             <p>
                 <input type=button value="Calculate Score" onclick="runScript();">
                 <input type=reset value="Reset">
@@ -217,12 +218,11 @@
     
     <p>Enter x or X for a strike.</p>
     <p>Enter / for a spare.</p>
-    <p>Enter 0-9 for each shot if it is not a strike or spare.</p>
-    <p>The cursor will auto-advance to the next shot (or next frame in case of a strike).</p>
-    <p>Use the bottom row of textboxes to test your scoring knowledge against the actual score.</p>
+    <p>Enter 0-9 for each shot if it is not a strike or spare.</p>  
     <br />
     <br />
     <h2 style="text-align:center"><i>Have Fun and Enjoy!</i></h2>
+
     <hr>
     </div>
 
